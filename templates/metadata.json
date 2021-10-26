@@ -1,0 +1,27 @@
+{
+  "name": "D&D Front page",
+  "filename": "dnd-front",
+  "iconCode": "\ue982",
+  "landscape": "false", 
+  "categories": [
+    "Creative"
+  ]
+},
+{
+  "name": "D&D Spellcasting",
+  "filename": "dnd-spell",
+  "iconCode": "\ue982",
+  "landscape": "false", 
+  "categories": [
+    "Creative"
+  ]
+},
+{
+  "name": "D&D Fifth age",
+  "filename": "5th-age",
+  "iconCode": "\ue982",
+  "landscape": "false", 
+  "categories": [
+    "Creative"
+  ]
+},
