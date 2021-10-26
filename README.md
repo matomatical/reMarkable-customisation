@@ -4,8 +4,6 @@ Matt's custom reMarkable stuff
 You might like my custom templates and splashscreens, but more likely you
 might find the information on how to create and install your own useful!
 
-![](preview.png)
-
 Contents
 --------
 
@@ -23,6 +21,9 @@ Contents
 * My custom [splashscreens](splashscreens/):
   * Out of power with a sketch of a battery logo (TODO: redo this)
   * Suspended and power off with a sketch of my initial (TODO: redo this)
+
+
+![](preview.png)
 
 
 Installation (first-time and after update)
