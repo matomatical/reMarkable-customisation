@@ -4,6 +4,7 @@ Matt's custom reMarkable stuff
 You might like my custom templates and splashscreens, but more likely you
 might find the information on how to create and install your own useful!
 
+
 Contents
 --------
 
@@ -24,6 +25,23 @@ Contents
 
 
 ![](preview.png)
+
+Notes
+-----
+
+Be carefull connecting to your device over ssh. If you run the wrong commands,
+you could effectively destroy your beloved e-paper tablet.
+These instructions are released under an MIT license. In particular, no
+warranty or liability is provided for anyone who chooses to follow these
+instructions. You take responsibility for that. Please be careful!
+
+The splashscreens are (modified versions of) those provided with the
+reMarkable tablet, the originals of which retain copyright by Remarkable
+AS, not me.
+This repository is not affiliated with Remarkable AS.
+The templates are derived from other materials which I do not claim copyright
+for either.
+I do not provide a license to use these materials (only the instructions).
 
 
 Installation (first-time and after update)
