@@ -14,11 +14,10 @@ Contents
 * **TODO:** Scripts to automatically install these templates.
 * **TODO:** Instructions to create custom splashscreens and templates.
 * My custom [templates](templates/):
-  * Dungeons and Dragons 5E character sheet (front page).
-  * Dungeons and Dragons 5E character sheet (spells page).
+  * Dungeons and Dragons 5E character sheet (front page, spells page).
   * Dungeons and Dragons 5E character sheet (fifth age)
-    \[[5th age homebrew source](https://www.enworld.org/threads/fifth-age-a-hard-science-fiction-5e-conversion.459300/)\]
-    \[[character sheet source](https://drive.google.com/file/d/0Bxu3eA5VG0daZFRIRTNyUkNYM0U/view?usp=sharing&resourcekey=0-Qbci97t88nh7LTGrJLW3sA)\].
+    \[[homebrew source](https://www.enworld.org/threads/fifth-age-a-hard-science-fiction-5e-conversion.459300/)\]
+    \[[character sheet](https://drive.google.com/file/d/0Bxu3eA5VG0daZFRIRTNyUkNYM0U/view?usp=sharing&resourcekey=0-Qbci97t88nh7LTGrJLW3sA)\].
 * My custom [splashscreens](splashscreens/):
   * Out of power with a sketch of a battery logo (TODO: redo this)
   * Suspended and power off with a sketch of my initial (TODO: redo this)
