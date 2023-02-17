@@ -71,7 +71,7 @@ Templates
 First, copy the PNG files in `templates/` into the device:
 
 ```
-scp templates/*.png root@192.168.0.18:/usr/share/remarkable/templates/
+scp templates/*.png root@10.11.99.1:/usr/share/remarkable/templates/
 ```
 
 Then, add the metadata from inside `templates/metadata.json` into
@@ -80,7 +80,7 @@ You have to interleave the JSON. I recommend:
 
 ```
 pbcopy < templates/metadata.json
-ssh root@192.168.0.18
+ssh root@10.11.99.1
 # type password; unless you have configured ssh keys
 vim /usr/share/remarkable/templates/templates.json
 # or, nano instead of vim
@@ -110,11 +110,11 @@ screens:
 # WARNING: Only run this once or after a fresh update, or you will overwrite
 # your backup with your custom skins... (I did this for v2.10, oops!)
 mkdir -p splashscreens/orig/ 
-scp root@192.168.0.18:'/usr/share/remarkable/*.png' splashscreens/orig
+scp root@10.11.99.1:'/usr/share/remarkable/*.png' splashscreens/orig
 ```
 
 Then, copy the new skins to the same folder, overwriting the original ones.
 
 ```
-scp splashscreens/matt/*.png root@192.168.0.18:/usr/share/remarkable/
+scp splashscreens/matt/*.png root@10.11.99.1:/usr/share/remarkable/
 ```
